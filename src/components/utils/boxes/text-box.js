@@ -25,7 +25,7 @@ const TextBox = ({ title, icon, onSave, value }) => {
     <Box className="w-full flex flex-col mt-10">
       <Box className="flex w-full mb-4 justify-between mr-2 md:mr-7">
         <Box className="flex items-center gap-3 ml-2 md:ml-5 ">
-          <img src={icon} alt="iocn" />
+          <img src={icon} alt="icon" />
           <Typography
             variant="subtitle1"
             component="div"
